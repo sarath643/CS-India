@@ -24,7 +24,9 @@
       "@/*": ["src/*"],
       "@components/*": ["src/components/*"],
       "@assets/*": ["src/assets/*"]
-    }
+    },
+    "typeRoots": ["node_modules/@types"],
+    "types": ["plotly.js"]
   },
   "include": ["vite.config.ts"]
 }
