@@ -1,6 +1,4 @@
-# React + TypeScript + Vite
-
-# COVID-19 Tracker India
+# COVID-19 Stats India
 
 ## Overview
 
