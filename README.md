@@ -14,6 +14,14 @@ COVID-19 Stats India is a web application that provides up-to-date information o
 - **Responsive Design**: Optimized for both desktop and mobile viewing.
 - **Real-time Data**: Regular updates ensure the latest available information.
 
+## Screenshots
+
+### Mobile View
+
+![Mobile View]
+
+(./assets/s1.png)
+
 ## Technology Stack
 
 - React

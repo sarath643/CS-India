@@ -9,7 +9,7 @@ import bgImage from '@/assets/C1.png';
 
 const Dashboard: React.FC = () => {
   return (
-    <div className='space-y-8 bg-center '>
+    <div className='space-y-4 bg-center sm:space-y-8 '>
       <div className='relative p-6 text-black rounded-lg bg-opacity-10 dark:text-white bg-gradient-to-r from-purple-300/50 to-blue-50'>
         <h1 className='mb-4 text-3xl font-bold'>COVID-Stats India</h1>
         <p className='mb-4'>
@@ -49,14 +49,15 @@ const Dashboard: React.FC = () => {
             <li>Use the state filter to focus on a specific region</li>
             <li>The pie chart shows the distribution of cases</li>
             <li>The map provides a geographic view of case numbers</li>
-            <li>The line chart compares different metrics over time or across states</li>
+            <li>The line chart compares different metrics over cases in states</li>
           </ul>
         </div>
       </div>
 
       <FilterState />
-      <div className='grid grid-cols-1 gap-8 md:grid-cols-2 '>
+      <div className='grid grid-cols-1 gap-4 sm:gap-8 md:grid-cols-2 '>
         <PieChart />
+
         <LineChart />
       </div>
       <MapView />
