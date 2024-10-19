@@ -18,7 +18,13 @@ COVID-19 Stats India is a web application that provides up-to-date information o
 
 ### Mobile View
 
-![Mobile View](./assets/s1.png)
+![Mobile View 1](src/assets/s1.png)
+
+![Mobile View 2](src/assets/s2.png)
+
+![Mobile View 3](src/assets/s3.png)
+
+![Mobile View 4](src/assets/s4.png)
 
 ## Technology Stack
 
@@ -40,7 +46,7 @@ COVID-19 Stats India is a web application that provides up-to-date information o
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/covid-stats-india.git
+   git clone https://github.com/sarath643/covid-stats-india.git
    cd covid-stats-india
    ```
 
