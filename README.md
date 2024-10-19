@@ -18,9 +18,7 @@ COVID-19 Stats India is a web application that provides up-to-date information o
 
 ### Mobile View
 
-![Mobile View]
-
-(/assets/s1.png)
+![Mobile View](./assets/s1.png)
 
 ## Technology Stack
 
